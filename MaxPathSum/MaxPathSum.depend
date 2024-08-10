@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723287933 source:c:\users\wilso\documents\mps-t\maxpathsum\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
